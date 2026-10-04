@@ -1,0 +1,9 @@
+QUEEN NICKY MD — NEW REPOSITORY
+
+1. Create a NEW empty GitHub repository.
+2. Extract this ZIP.
+3. Upload ALL files and folders inside this folder to the repository root.
+4. Do NOT upload real .env secrets.
+5. After upload, deploy using the platform instructions in README.md.
+
+The ZIP is already flattened so the project files are at the repository root.
